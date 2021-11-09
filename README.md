@@ -9,6 +9,6 @@ this picture indicates a 3*3 array multiplier in my design which has only 9 esse
 
 ## THE SIMULATION RESULTS:
 the results in the modelsim are as follows
-![](./output1.jpg)
-![](./output2.jpg)
-![](./output3.jpg)
+![](./output1.JPG)
+![](./output2.JPG)
+![](./output3.JPG)
